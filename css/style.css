@@ -1,0 +1,17 @@
+body,
+html {
+  height: 100%;
+  background: rgba(255, 114, 96, 1);
+  background: linear-gradient(90deg, rgba(255, 114, 96, 1) 0%, rgba(255, 114, 96, 1) 14%, rgba(252, 210, 113, 1) 54%, rgba(252, 210, 113, 1) 61%, rgba(102, 176, 102, 1) 93%, rgba(96, 135, 134, 1) 100%);
+}
+
+a:hover,
+a:active,
+a:link,
+a:visited {
+  text-decoration: none;
+}
+
+input {
+  height: 33px;
+}
